@@ -1,4 +1,4 @@
-package arrays.GFGLargestElement;
+package arrays.GFG.LargestElement;
 
 /*
 Largest Element in Array
