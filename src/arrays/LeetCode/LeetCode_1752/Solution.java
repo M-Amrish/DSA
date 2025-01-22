@@ -1,4 +1,4 @@
-package arrays.LeetCode_1752.Check_if_Array_Is_Sorted_and_Rotated;
+package arrays.LeetCode.LeetCode_1752;
 
 class Solution {
     public boolean check(int[] nums) {
