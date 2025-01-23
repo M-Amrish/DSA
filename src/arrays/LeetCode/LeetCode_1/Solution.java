@@ -6,7 +6,6 @@ package arrays.LeetCode.LeetCode_1;
 
 // TC - O(N^2), SC - O(1)
 
-
 // After optimize TC - O(N), SC - O(1)
 import java.util.HashMap;
 
