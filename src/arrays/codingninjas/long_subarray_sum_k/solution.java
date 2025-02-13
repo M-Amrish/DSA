@@ -1,7 +1,7 @@
 package arrays.codingninjas.long_subarray_sum_k;
 
 // Time Complexity: O(2*N), where N = size of the given array.
-// Space Complexity: O(1) as we are not using any extra space.
+// Sxpace Complexity: O(1) as we are not using any extra space.
 class Solution {
     public static int longestSubarrayWithSumK(int []a, long k) {
 
