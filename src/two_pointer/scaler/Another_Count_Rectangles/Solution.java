@@ -1,7 +1,6 @@
 package two_pointer.scaler.Another_Count_Rectangles;
 
 public class Solution {
-    public class Solution {
         public int solve(int[] A, int B) {
             int n = A.length;
             int mod = 1000000007;
