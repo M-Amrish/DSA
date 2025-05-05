@@ -25,5 +25,3 @@ public class Solution {
             return (int)ans%mod;
         }
     }
-
-}
