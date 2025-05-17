@@ -1,0 +1,27 @@
+package greedy.Scaler.Another_Coin_Problem;
+
+
+
+// Best Solution TC - O(N), SC - O(1).
+
+// public int solve(int A) {
+//     int ans = 0;
+//     while (A > 0) {
+//         ans += A / 5;
+//         A = A / 5;
+//     }
+//     return ans;
+// }
+
+// Optimal Solution TC - O(N), SC - O(1).
+
+public class Solution {
+    public int solve(int A) {
+        int ans = 0;
+        while (A > 0) {
+            ans += A / 5;
+            A = A / 5;
+        }
+        return ans;
+    }
+}
